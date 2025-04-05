@@ -1,7 +1,1 @@
-# This is a test Python file
-
-def hello_world():
-    print("Hello, world!")
-
-if __name__ == "__main__":
-    hello_world()
+IyBUaGlzIGlzIGEgdGVzdCBQeXRob24gZmlsZQoKZGVmIGhlbGxvX3dvcmxkKCk6CiAgICBwcmludCgiSGVsbG8sIHdvcmxkISIpCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgaGVsbG9fd29ybGQoKQ==
